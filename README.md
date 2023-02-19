@@ -36,3 +36,11 @@ melhoria 1, melhoria 2
 [Google](https://www.google.com)
 
 Contribuidor principal: https://github.com/EuLucasMoura
+
+## Código da função soma:
+
+´´´javascript
+function soma(a, b){
+    return a + b;
+}
+´´´
