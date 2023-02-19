@@ -34,3 +34,5 @@ melhoria 1, melhoria 2
 ## Links Interessantes:
 
 [Google](https://www.google.com)
+
+Contribuidor principal: https://github.com/EuLucasMoura
