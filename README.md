@@ -27,4 +27,6 @@ melhoria 1, melhoria 2
 
 #### Imaggem local:
 
-![Logo do HTML](img/HMTL%20LOGO.png)
+![Logo do HTML](img/HMTL%20LOGO.png)<img align="center" alt="Rafa-Ts" height="30" width="40"
+
+![Logo do CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png)
