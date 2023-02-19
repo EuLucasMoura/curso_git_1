@@ -24,3 +24,7 @@ melhoria 1, melhoria 2
     3. CSS diferente para grupos de clientes
 2. Integração de outros pagamentos
 3. Sistema de bônus de primeira compra
+
+#### Imaggem local:
+
+![Logo do HTML](img/HMTL%20LOGO.png)
