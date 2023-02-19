@@ -7,3 +7,12 @@ vamos criar um **e-commerce**, para a _empresa x_ e blablabla
 ###### melhorias do projeto:
 
 melhoria 1, melhoria 2
+
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* JAVASCRIPT
+* PHP
+* MYSQL
+
